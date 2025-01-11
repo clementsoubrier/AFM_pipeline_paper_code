@@ -1,0 +1,8 @@
+__pycache__
+.venv
+.idea
+*.avi
+*.xlsx
+data/*/*
+
+!/**/.gitkeep
