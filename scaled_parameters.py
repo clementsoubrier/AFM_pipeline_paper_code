@@ -32,11 +32,11 @@ INH_AFT = ["INH_after_700"]
 
 # path_and_names = 
 INITIAL_DATA = os.path.join("..","data2")       # directory with the initial data (logs)
-DATA_DIREC = os.path.join('data', 'datasets')   # main processed directory
+DATA_DIREC = os.path.join('Processed_data', 'datasets')   # main processed directory
 FINAL_DATA = "final_data"                       # sub directory with the final images
-RESULT_DIR = os.path.join('data', 'results')    # result directory (stats, videos, images)
+RESULT_DIR = os.path.join('Processed_data', 'results')    # result directory (stats, videos, images)
 DIR_PLOT_STAT = os.path.join(RESULT_DIR,'plot_stat') # result directory stats
-DATA_CELL = os.path.join('data', 'cells')       # directory of the ROIs
+DATA_CELL = os.path.join('Processed_data', 'cells')       # directory of the ROIs
 LINE_DIR = "lines"                              # data of the ROIs (centerlines, peaks and troughs)
 FEATURES_TRACKING = "features_tracking"         # peaks and troughs tracking directory
 FINAL_IMG_DIR = os.path.join("..","Images","All_images")

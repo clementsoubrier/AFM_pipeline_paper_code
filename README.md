@@ -1,6 +1,6 @@
 # AFM pipeline
 
-This repository contains the code used for the paper ... This is a simplified version of the Github repository https://github.com/clementsoubrier/AFM-pipeline.
+This repository contains the code used for the paper "Quantifying the organization and dynamics of M. smegmatis morphology from Long-Term Time-Lapse Atomic Force Microscopy". This is a simplified version of the Github repository https://github.com/clementsoubrier/AFM-pipeline.
 
 ## Description
 'main_run' enables to run the whole pipelines on different datasets
